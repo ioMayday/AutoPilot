@@ -7,4 +7,4 @@
 
 
 第一本无人驾驶技术书 技术总结与概括
-[想看书籍梗概精要的可以点击](http://ziyubiti.github.io/2018/07/11/autopilot/)
+[书籍精要](http://ziyubiti.github.io/2018/07/11/autopilot/)
